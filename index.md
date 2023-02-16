@@ -12,9 +12,9 @@ This document serves as the **complete** definition of Salesforce BT's coding st
 
 Like other programming style guides, the issues covered span not only aesthetic issues of formatting, but other types of conventions or coding standards as well. However, this document focuses primarily on the **hard-and-fast rules** that we follow universally, and avoids giving _advice_ that isn't clearly enforceable (whether by human or tool).
 
-This is a fork of the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html), adapted and ported to the Apex Programming Language by [Craig Ceremuga](https://github.com/cceremuga) with the immensely helpful input and feedback of the entire Salesforce BT technical consulting and engineering staff.
+This is a fork of the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html), adapted and ported to the Apex Programming Language by [Craig Ceremuga](https://github.com/cceremuga) with the immensely helpful input and feedback of the entire NimbleUser technical consulting and engineering staff.  Additional updates were made by Salesforce BT Engineering. 
 
-Collaborators are welcome and the Markdown source code can be found on the [Salesforce BT GitHub organization](https://github.com/Salesforce BT/apex-style-guide/).
+Salesforce BT Collaborators are welcome and the Markdown source code can be found on [Github](https://github.com/BrianAsher/apex-style-guide/).  Collaborators for the NimbleUser version can contribute to the [NimbleUser Github Organization](https://github.com/NimbleUser/apex-style-guide).
 
 ### 1.1 - Terminology notes
 
